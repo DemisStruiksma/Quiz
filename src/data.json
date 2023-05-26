@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "Who was the mother of the Greek god Zeus?",
+            "options": [
+                "Gaia",
+                "Phoebe",
+                "Rhea",
+                "Hera"
+            ],
+            "answer": "Rhea"
+        },
+        {
+            "question": "Who was the WNBA's Most Valuable Player of 1999?",
+            "options": [
+                "Rebecca Lobo",
+                "Sheryl Swoopes",
+                "Lisa Leslie",
+                "Yolanda Griffith"
+            ],
+            "answer": "Yolanda Griffith"
+        },
+        {
+            "question": "Who were the Chicago Seven?",
+            "options": [
+                "war protesters",
+                "bluegrass musicians",
+                "bank robbers",
+                "mobsters"
+            ],
+            "answer": "war protesters"
+        },
+        {
+            "question": "Who were the Know-Nothings?",
+            "options": [
+                "a '60's comedy troupe",
+                "computer designers",
+                "a political party",
+                "a spy ring"
+            ],
+            "answer": "a political party"
+        },
+        {
+            "question": "Who wrote 'A Tale of Two Cities'?",
+            "options": [
+                "Charles Dickens",
+                "Nathaniel Hawthorne",
+                "Washington Irving",
+                "Mark Twain"
+            ],
+            "answer": "Charles Dickens"
+        },
+        {
+            "question": "Who wrote musicals with Oscar Hammerstein II?",
+            "options": [
+                "Richard Rodgers",
+                "Rogers Hornsby",
+                "Gilbert O' Sullivan",
+                "George Rogers Clark"
+            ],
+            "answer": "Richard Rodgers"
+        },
+        {
+            "question": "Who wrote the lyrics of the Frank Sinatra anthem 'My Way'?",
+            "options": [
+                "Frank Sinatra",
+                "Kris Krist offerson",
+                "Carole King' Sullivan",
+                "Paul Anka"
+            ],
+            "answer": "Paul Anka"
+        },
+        {
+            "question": "Whom did Billie Jean King defeat in the famous 'Battle of the Sexes' tennis match?",
+            "options": [
+                "Jimmy Connors",
+                "Pete Sampras",
+                "John McEnroe",
+                "Bobby Riggs"
+            ],
+            "answer": "Bobby Riggs"
+        },
+        {
+            "question": "Whose profile can you see on the front of dimes that are currently in circulation?",
+            "options": [
+                "George Washington",
+                "Thomas  Jefferson",
+                "Benjamin Franklin",
+                "Franklin Roosevelt"
+            ],
+            "answer": "Franklin Roosevelt"
+        },
+        {
+            "question": "With what would you use a wah-wah pedal?",
+            "options": [
+                "bicycle",
+                "stock car",
+                "electric guitar",
+                "baby"
+            ],
+            "answer": "electric guitar"
+        }
+    ]
+}
