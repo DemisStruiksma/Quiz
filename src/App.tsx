@@ -9,7 +9,6 @@ function App() {
       <Routes>
         <Route path="/" element={<Quiz />} />
         <Route path="/result" element={<Result />} />
-
       </Routes>
     </Router>
   );
